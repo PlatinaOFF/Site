@@ -112,3 +112,17 @@ a {
         width: 100%; 
     }
 }
+
+.image-container {
+    width: 100%;
+    max-width: 720px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 10px;
+  }
+
+  .image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
