@@ -124,5 +124,6 @@ a {
   .image-container img {
     width: 100%;
     height: auto;
+    max-height: 138px; /* Definindo uma altura máxima */
     display: block;
   }
