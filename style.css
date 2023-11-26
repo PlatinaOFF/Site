@@ -127,3 +127,9 @@ a {
     max-height: 138px; /* Definindo uma altura máxima */
     display: block;
   }
+
+  @media (max-width: 600px) {
+    .image-container {
+      padding: 5px; /* Reduzir o espaçamento em telas menores */
+    }
+  }
